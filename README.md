@@ -8,5 +8,5 @@ A quantidade de balas disparadas pelos monstros por ronda (linha 224, 229, 234, 
 A velocidade com que as balas dos monstros são disparadas (inicial 9) (bullet.y += 8) (linha 272) <br /> <br />
 A velocidade das balas disparadas da nava (inicial 15) (bullet_shoot.y -= 15) (linha 159 e 160) <br /> <br />
 O número máximo de rondas (inicial 8) (max_rounds = 8) (linha 131) <br /> <br />
-Existindo outras definições que podem ser alteradas. <br /> <br />
-Por fim, Obrigado por ler isto até ao fim, e esperamos que goste do nosso jogo. Boa Sorte! <br /> <br />
+Existindo outras definições que podem ser alteradas. <br />
+Por fim, Obrigado por ler isto até ao fim, e esperamos que goste do nosso jogo. Boa Sorte! <br />
